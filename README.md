@@ -38,5 +38,5 @@ Real-time weather application with location-based forecasts.
 ## 📞 Connect
 - 📧 Email: jangidhj28@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/himanshujangid1227](https://linkedin.com/in/himanshujangid1227)
-- 🐙 GitHub: [github.com/himanshujangid](https://github.com/himanshujangid)
+- 🐙 GitHub: [github.com/himanshujangid](https://github.com/9530220841))
 
