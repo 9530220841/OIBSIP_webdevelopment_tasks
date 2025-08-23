@@ -6,12 +6,12 @@ A collection of web development projects completed during my internship at Oasis
 
 ### 1. 🏠 **Himanshu Portfolio**
 Personal portfolio website showcasing skills, projects, and contact information.
-- **Technologies**: HTML5, CSS3, JavaScript
+- **Technologies**: HTML5, CSS
 - **Features**: Responsive design, modern UI, project showcase
 
 ### 2. 🎯 **Landing Page 2**
 Modern landing page design with clean aesthetics and user engagement focus.
-- **Technologies**: HTML5, CSS3, JavaScript
+- **Technologies**: HTML5, CSS
 - **Features**: Hero section, CTA buttons, responsive layout
 
 ### 3. 🌤️ **Weather App**
